@@ -1,4 +1,4 @@
-package com.example.horoscope
+package com.burc.horoscope
 
 import org.junit.Test
 

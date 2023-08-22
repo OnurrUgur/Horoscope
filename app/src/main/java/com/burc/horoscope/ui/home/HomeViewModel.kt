@@ -1,4 +1,4 @@
-package com.example.horoscope.ui.home
+package com.burc.horoscope.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -10,4 +10,9 @@ class HomeViewModel : ViewModel() {
         value = "This is home Fragment"
     }
     val text: LiveData<String> = _text
+
+    private val text_example = MutableLiveData<String>().apply {
+        value = "This is home Fragment"
+    }
+    val text1: LiveData<String> = text_example
 }

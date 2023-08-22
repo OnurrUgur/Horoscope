@@ -1,4 +1,4 @@
-package com.example.horoscope
+package com.burc.horoscope
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.horoscope.databinding.ActivityMainBinding
+import com.burc.horoscope.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.horoscope.ui.dashboard
+package com.burc.horoscope.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

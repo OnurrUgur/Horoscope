@@ -1,4 +1,4 @@
-package com.example.horoscope.ui.notifications
+package com.burc.horoscope.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
